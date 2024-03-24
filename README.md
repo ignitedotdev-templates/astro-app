@@ -1,3 +1,14 @@
+```bash
+# root directory
+src
+
+# build command
+npm install && npm run generate
+
+# build directory
+dist
+```
+
 # Astro Starter Kit: Basics
 
 ```sh
