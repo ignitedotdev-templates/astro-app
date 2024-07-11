@@ -8,7 +8,7 @@ src
 npm install && npm run generate
 
 # build directory
-build
+dist
 ```
 
 # Astro Starter Kit: Basics
