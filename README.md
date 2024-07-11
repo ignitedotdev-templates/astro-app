@@ -5,7 +5,7 @@
 /
 
 # build command
-npm install; npm run build
+rm package-lock.json; npm install; npm run build
 
 # build directory
 dist
