@@ -2,7 +2,7 @@
 # Deploy Config
 ```bash
 # root directory
-src
+/
 
 # build command
 npm install; npm run build
